@@ -1,3 +1,6 @@
+# Twine Specific
+tmp*
+
 # Numerous always-ignore extensions
 *.diff
 *.err
